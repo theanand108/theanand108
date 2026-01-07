@@ -13,6 +13,9 @@ i am currently pursuing B.tech in CSE<br>i am an openSource contributer<br>i am 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theanand108&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=theanand108&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=theanand108&icon=0&color=0)](https://visitcount.itsvg.in)
 
