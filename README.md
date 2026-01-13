@@ -1,7 +1,6 @@
 # About Me: 
 i am currently pursuing B.tech in CSE<br>i am an openSource contributer<br>i am pasinate about building things<br>
 
-
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_anand108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-kushwaha-085044331/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushwahaanand1008@gmail.com) 
 
