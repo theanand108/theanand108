@@ -35,7 +35,7 @@ Contributions include:
 ## Technical Background
 
 **Languages & Tools:**  
-C++ | Java | Python | Svelte | HTML && CSS && JavaScript | Node.js | MongoDB | Express.js  
+C++ | Java | Python | Svelte | TypeScript | HTML && CSS && JavaScript | Node.js | MongoDB | Express.js  
 
 **Interests:**  
 Systems | Security tooling | AI
