@@ -18,10 +18,10 @@ Currently preparing for Google Summer of Code 2026.
 
 Active contributor to:
 
-- OWASP Cheat Sheet Series  
-- OWASP ASVS  
-- OWASP CSRFGuard  
 - OWASP Cornucopia  
+- OWASP Cheat Sheet Series  
+- OWASP CSRFGuard  
+- OWASP ASVS  
 
 Contributions include:
 
