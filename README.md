@@ -37,8 +37,10 @@ Contributions include:
 **Languages & Tools:**  
 C++ | Java | Python | Svelte | TypeScript | HTML && CSS && JavaScript | Node.js | MongoDB | Express.js  
 
+**Profiles:** [GitHub](https://github.com/theanand108) | [LinkedIn](linkedin.com/in/anand-kushwaha-085044331) | [LeetCode](https://leetcode.com/u/Anand_108/)
+
 **Interests:**  
-Systems | Security tooling | AI
+Systems | Security tooling | AI | Robotics | Hardware
 
 ---
 
