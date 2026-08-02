@@ -48,7 +48,7 @@ Alongside personal projects, I actively contribute to open-source projects under
 - HTML
 - CSS
 - Bootstrap
-- React *(Currently Learning)*
+- React 
 
 ### Databases
 
