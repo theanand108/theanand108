@@ -1,49 +1,107 @@
-# Anand Kushwaha
+# Hi, I'm Anand Kushwaha 
 
-Open-source contributor focused on documentation quality and maintainability within OWASP projects.  
-Currently preparing for Google Summer of Code 2026.
+### Backend Developer | Building AI-powered FinTech Products
 
----
+I'm a Computer Science student passionate about backend engineering, AI-powered applications, and building software that solves real-world problems.
 
-## Focus Areas
+Currently, I'm building **Smart Spend AI**—an AI-powered financial intelligence platform designed to help users better understand their finances and explore how intelligent insights can enhance modern UPI ecosystems.
 
-- Security documentation correctness  
-- Issue-first, maintainer-aligned contributions  
-- Improving reference integrity and clarity  
-- Documentation-code alignment  
+Alongside personal projects, I actively contribute to open-source projects under the **OWASP Foundation**, collaborating with maintainers on documentation, frontend improvements, testing, and engineering quality.
 
 ---
 
-## Open Source Contributions
+## 🚀 Featured Project
 
-Active contributor to:
+### Smart Spend AI
 
-- OWASP Cornucopia  
-- OWASP Cheat Sheet Series  
-- OWASP CSRFGuard  
-- OWASP ASVS  
+**AI-powered Financial Intelligence Layer for Modern Payment Platforms**
+
+**Highlights**
+- Intelligent transaction analytics
+- Financial insights dashboard
+- AI-ready backend architecture
+- Rule-based transaction categorization
+- Interactive visualizations
+- Designed for future UPI ecosystem integration
+
+🔗 **Repository:** [Smart Spend AI](https://github.com/theanand108/smart_spend_AI)
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+- Python
+- JavaScript
+- C++
+
+### Backend
+
+- Flask
+- Node.js
+- Express.js
+- REST APIs
+
+### Frontend
+
+- HTML
+- CSS
+- Bootstrap
+- React *(Currently Learning)*
+
+### Databases
+
+- SQLite
+- MongoDB
+
+### AI / ML
+
+- Pandas
+- NumPy
+- Scikit-learn *(Learning)*
+
+### Tools
+
+- Git
+- GitHub
+
+---
+
+## 🌍 Open Source
+
+Contributor to projects including:
+
+- OWASP Cornucopia
+- OWASP Cheat Sheet Series
+- OpenOncology
 
 Contributions include:
 
-- Documentation improvements and reference updates  
-- Converting internal TODOs into user-facing documentation  
-- Maintainer-invited fixes  
-- Small, scoped changes aligned with project guidelines  
+- Documentation improvements
+- Frontend enhancements
+- CI-related fixes
+- Maintainer-requested changes
+- Bug fixes and project maintenance
 
 ---
 
-## Technical Background
+## 📈 Current Focus
 
-**Languages & Tools:**  
-C++ | Java | Python | Svelte | TypeScript | HTML && CSS && JavaScript | Node.js | MongoDB | Express.js  
-
-**Profiles:** [GitHub](https://github.com/theanand108) | [LinkedIn](https://www.linkedin.com/in/anand-kushwaha-085044331) | [LeetCode](https://leetcode.com/u/Anand_108/)
-
-**Interests:**  
-Systems | Security tooling | AI | Robotics | Hardware
+- Building Smart Spend AI
+- Learning Machine Learning (CampusX)
+- Learning React
+- Strengthening Backend Engineering
+- Solving Data Structures & Algorithms
 
 ---
 
-## Current Objective
+## 📫 Connect With Me
 
-Continue contributing to OWASP projects with a focus on documentation reliability and long-term project quality.
+- 💼 LinkedIn: https://linkedin.com/in/anand-kushwaha-085044331
+- 🧠 LeetCode: https://leetcode.com/u/Anand_108/
+- 🌐 GitHub: https://github.com/theanand108
+
+---
+
+> *"I enjoy building software that combines strong backend engineering with practical AI to solve real-world problems."*
