@@ -1,6 +1,6 @@
 # Hi, I'm Anand Kushwaha 
 
-### Backend Developer | Building AI-powered FinTech Products
+### Backend Developer • Building AI-powered FinTech Products • Open Source Contributor
 
 I'm a Computer Science student passionate about backend engineering, AI-powered applications, and building software that solves real-world problems.
 
