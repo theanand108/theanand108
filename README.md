@@ -2,7 +2,7 @@
 
 ### Backend Developer • Building AI-powered FinTech Products • Open Source Contributor
 
-I'm a Computer Science student passionate about backend engineering, AI-powered applications, and building software that solves real-world problems.
+Backend developer passionate about backend engineering, AI-powered applications, and building software that solves real-world problems.
 
 Currently, I'm building **Smart Spend AI**—an AI-powered financial intelligence platform designed to help users better understand their finances and explore how intelligent insights can enhance modern UPI ecosystems.
 
